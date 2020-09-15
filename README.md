@@ -15,7 +15,7 @@ Statistics about suicide are not easy to collate, and may be inaccurate due to t
 In this project, I will be taking you through the whole process of cleaning, analysing and visualzing important takeaways from this dataset.
 
 ### The unclean dataset
-who_suicide_statistics_unclean.csv
+'who_suicide_statistics_unclean.csv'
 
 ### Jupyter Notebook taking you the whole process
 WHO_Suicide_Data_Analysis.ipynb
