@@ -19,9 +19,7 @@ In this project, I will be taking you through the whole process of cleaning, ana
 
 **The unclean dataset** : `who_suicide_statistics_unclean.csv`
 
-### Jupyter Notebook taking you the whole process
-WHO_Suicide_Data_Analysis.ipynb
+**Jupyter Notebook taking you the whole process** : `WHO_Suicide_Data_Analysis.ipynb`
 
-### The final post-processed dataset
-> who_suicide_data_final.csv
+**The final post-processed dataset** : `who_suicide_data_final.csv`
 
