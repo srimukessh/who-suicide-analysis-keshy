@@ -1,7 +1,7 @@
 # WHO Suicide Data Analysis using Python
 
 
-Statistics about suicide are not easy to collate, and may be inaccurate due to the sensitivity of the issue. However,taking into account the existing data I am going to present the analysis on world suicide data from 1985 to 2016. The following features are present in the dataset:
+Statistics about suicide are not easy to collate, and may be inaccurate due to the sensitivity of the issue. However, taking into account the existing data, I am going to present the analysis on world suicide data from 1985 to 2016. The following features are present in the dataset:
 
 - country-name of the countries
 - year-year for the suicides recorded
